@@ -2,7 +2,7 @@
 
 
 Prerequisites for backend side :
-Java (version 17) 
+Java (version 17) , Maven
 
 Installation :
 lancer l'exécution du backend : java -jar angular-spring-medic-0.0.1-SNAPSHOT.jar
